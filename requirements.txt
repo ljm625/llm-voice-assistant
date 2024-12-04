@@ -1,0 +1,8 @@
+pyaudio
+webrtcvad
+numpy
+requests
+edge-tts
+langchain
+langchain-community
+openai

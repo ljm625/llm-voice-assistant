@@ -1,0 +1,4 @@
+whisper_cpp_server: http://127.0.0.1:8080/inference
+openai_endpoint: http://127.0.0.1:11333/v1
+openai_api_key: llama
+openai_model: SuperNova-Medius-Q6_K
